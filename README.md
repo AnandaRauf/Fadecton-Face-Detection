@@ -23,7 +23,7 @@ Contacts Me :
 
 Instagram : @anandaraufm.
 Linkedin : Ananda Rauf Maududi.
-Email : anandaraufmv@gmail.com
+Email : anandaraufm@gmail.com
 Whatsapp : 083879627956.
 
 If you wanna hire me to be Tech Leader, you must requirement :
