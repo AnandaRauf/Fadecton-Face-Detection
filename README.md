@@ -8,9 +8,11 @@ Screenshot program: ![Screenshot Program](https://raw.githubusercontent.com/Anan
 
 Requirement:
 - Python, download here : https://www.python.org/downloads.
-- Library Package: numpy,face-recognition,and opencv-python.
+- Cmake GUI : https//www.cmake.org
+- Visual Studio C++: https://www.visualtudio.microsoft.com (Choose Desktop C++, unchecklist all, checklist just number one(MVC))
+- Library Package: numpy,face_recognition, cmake,and opencv-python.
 - Install Library with using pip install library package name.
-- Install Pip: py get-pip.py and download script pip : https://bootstrap.pypa.io/get-pip.py.
+- Install Pip: py get-pip.py and the  download script pip : https://bootstrap.pypa.io/get-pip.py.
 - upgarde pip : py -m pip install --upgrade pip.
 How to use:
 - open CMD and Terminal Linux on locate folder program: py fadecton.py.
